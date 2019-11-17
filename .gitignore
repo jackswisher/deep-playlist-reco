@@ -1,7 +1,13 @@
 # Don't track the datasets
 MillionSongDataset/
 MillionSongSubset/
+Songs/
+Songs.nosync/
 
 # other files
 .DS_Store
 .ipynb_checkpoints/
+
+
+# archived files
+*.zip
