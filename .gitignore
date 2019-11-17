@@ -1,5 +1,6 @@
 # Don't track the datasets
 MillionSongDataset/
+MillionSongSubset/
 
 # other files
 .DS_Store
