@@ -1,0 +1,6 @@
+# Don't track the datasets
+MillionSongDataset/
+
+# other files
+.DS_Store
+.ipynb_checkpoints/
